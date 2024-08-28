@@ -1,0 +1,1 @@
+The summarisation step employs as input the retrieved paragraphs/sentences from the previous stage (Information Retrieval).
